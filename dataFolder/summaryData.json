@@ -1,0 +1,54 @@
+[
+    {
+        "topic": "Key Features of NextJS",
+        "where": "Evernote"
+    },
+    {
+        "topic": "Create and Run NextJS Apps",
+        "where": "Evernote"
+    },
+    {
+        "topic": "File Based Routing",
+        "where": "Evernote"
+    },
+    {
+        "topic": "Static/Named Route",
+        "where": "/about, /games, Evernote"
+    },
+    {
+        "topic": "Nested Routes",
+        "where": "/games, Evernote"
+    },
+    {
+        "topic": "Dynamic Paths and Routes & Extracting Path Data",
+        "where": "/[exampleid], /blog/..., Evernote"
+    },
+    {
+        "topic": "Catch All Routes",
+        "where": "/blog/..."
+    },
+    {
+        "topic": "Link Component, Navigation, Programatic Navigation",
+        "where": "HomePage, Evernote"
+    },
+    {
+        "topic": "404 Page",
+        "where": "404 or any invalid route"
+    },
+    {
+        "topic": "Static Generation Pre-Rendering, getStaticProps(), Server Side Code, ISR, getStaticPaths(), Context, Fallback, Not Found, Redirect, Loading Path Dynamically",
+        "where": "Evernote, /homestatic, /users/1, /users/2"
+    },
+    {
+        "topic": "Server Side Rendering, getServerSideProps(), Context",
+        "where": "Evernote, /homeserver"
+    },
+    {
+        "topic": "Optimising NextJS - head/meta - data, _app.js, _document.js, Image Optimisation",
+        "where": "_app.js, _document.js, index.tsx, Evernote"
+    },
+    {
+        "topic": "API Routes",
+        "where": "/apiplayground, /api, Evernote"
+    }
+]

@@ -1,0 +1,28 @@
+.card_container {
+    display: inline-block;
+    padding: 64px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 5px;
+    max-width: 40%;
+    min-width: 450px;
+    background: rgba(0,0,0,0.5);
+    color: white;
+}
+
+.route_field {
+    font-size: 16px !important;
+    color: rgb(148, 148, 148);
+}
+
+.rts_here {
+    background: rgba(255,255,255,0.5);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+}
+
+.ul_custom {
+    text-decoration: none;
+
+}
