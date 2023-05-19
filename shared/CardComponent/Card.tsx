@@ -27,7 +27,7 @@ export default function Card(props:AppProps){
       </div>
       <br/>
       {cardProps.rts && 
-        <div>
+        <div style={{marginTop:'8px'}}>
           {cardProps.rts.map((item)=>(<Link href={item.href} className="lead text-dark badge bg-light" style={{marginRight:'8px',textDecoration:'none'}} key={item.label} >{item.label}</Link>))}
         </div>
         
